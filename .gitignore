@@ -1,0 +1,3 @@
+# Ignore .m4a and .txt files
+*.m4a
+*.txt
